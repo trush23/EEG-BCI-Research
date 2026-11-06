@@ -1,0 +1,44 @@
+[
+  {
+    "notebook": "01_EEG_fundamentals.ipynb",
+    "status": "PASS",
+    "seconds": 1.9,
+    "figures": 3,
+    "error": null
+  },
+  {
+    "notebook": "02_Spectral_structure.ipynb",
+    "status": "PASS",
+    "seconds": 3.6,
+    "figures": 3,
+    "error": null
+  },
+  {
+    "notebook": "03_Cleaning_and_quality_control.ipynb",
+    "status": "PASS",
+    "seconds": 4.2,
+    "figures": 4,
+    "error": null
+  },
+  {
+    "notebook": "04_Time_frequency_analysis.ipynb",
+    "status": "PASS",
+    "seconds": 2.3,
+    "figures": 3,
+    "error": null
+  },
+  {
+    "notebook": "05_Event_related_activity_and_uncertainty.ipynb",
+    "status": "PASS",
+    "seconds": 3.4,
+    "figures": 2,
+    "error": null
+  },
+  {
+    "notebook": "06_Decoding_MOABB_pyRiemann_Braindecode.ipynb",
+    "status": "PASS",
+    "seconds": 7.9,
+    "figures": 3,
+    "error": null
+  }
+]

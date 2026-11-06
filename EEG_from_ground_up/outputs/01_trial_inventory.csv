@@ -1,0 +1,16 @@
+subject,run,sample,onset_s,label
+1,4,672,4.2,right_hand
+1,4,2000,12.5,left_hand
+1,4,3328,20.8,left_hand
+1,4,4656,29.1,right_hand
+1,4,5984,37.4,right_hand
+1,4,7312,45.7,left_hand
+1,4,8640,54.0,right_hand
+1,4,9968,62.3,left_hand
+1,4,11296,70.6,right_hand
+1,4,12624,78.9,left_hand
+1,4,13952,87.2,left_hand
+1,4,15280,95.5,right_hand
+1,4,16608,103.8,left_hand
+1,4,17936,112.1,right_hand
+1,4,19264,120.4,left_hand

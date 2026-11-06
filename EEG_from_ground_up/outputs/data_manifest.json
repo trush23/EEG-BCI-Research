@@ -1,0 +1,112 @@
+{
+  "S001R01": {
+    "subject": 1,
+    "run": 1,
+    "file": "data/MNE-eegbci-data/files/eegmmidb/1.0.0/S001/S001R01.edf",
+    "sha256": "4743b736131a7e147c150e8b37711029b6cda5e356c4b3e8261a03cdcaaf8b0c",
+    "sampling_hz": 160.0,
+    "channels": 64,
+    "samples": 9760,
+    "source": "https://physionet.org/files/eegmmidb/1.0.0/S001/S001R01.edf"
+  },
+  "S001R02": {
+    "subject": 1,
+    "run": 2,
+    "file": "data/MNE-eegbci-data/files/eegmmidb/1.0.0/S001/S001R02.edf",
+    "sha256": "31a95e0a880e6c3d89960d9d62c144f24cc4e9f5d7e93c7f864ef61cd49e847e",
+    "sampling_hz": 160.0,
+    "channels": 64,
+    "samples": 9760,
+    "source": "https://physionet.org/files/eegmmidb/1.0.0/S001/S001R02.edf"
+  },
+  "S001R04": {
+    "subject": 1,
+    "run": 4,
+    "file": "data/MNE-eegbci-data/files/eegmmidb/1.0.0/S001/S001R04.edf",
+    "sha256": "3d161f88e1c00632585287d2ce584c2bc0f08862438eb255ea8723e00fac693d",
+    "sampling_hz": 160.0,
+    "channels": 64,
+    "samples": 20000,
+    "source": "https://physionet.org/files/eegmmidb/1.0.0/S001/S001R04.edf"
+  },
+  "S001R08": {
+    "subject": 1,
+    "run": 8,
+    "file": "data/MNE-eegbci-data/files/eegmmidb/1.0.0/S001/S001R08.edf",
+    "sha256": "358fb5189220725141968ae285fbe9e3f36210b834ffba71d940af308e3aca68",
+    "sampling_hz": 160.0,
+    "channels": 64,
+    "samples": 20000,
+    "source": "https://physionet.org/files/eegmmidb/1.0.0/S001/S001R08.edf"
+  },
+  "S001R12": {
+    "subject": 1,
+    "run": 12,
+    "file": "data/MNE-eegbci-data/files/eegmmidb/1.0.0/S001/S001R12.edf",
+    "sha256": "2b281c9b687b4c4176e83251d74743721f2d6ebd76656a972a3b9c44d9d88cd5",
+    "sampling_hz": 160.0,
+    "channels": 64,
+    "samples": 20000,
+    "source": "https://physionet.org/files/eegmmidb/1.0.0/S001/S001R12.edf"
+  },
+  "S002R04": {
+    "subject": 2,
+    "run": 4,
+    "file": "data/MNE-eegbci-data/files/eegmmidb/1.0.0/S002/S002R04.edf",
+    "sha256": "fcd37831378c411d50c223d97ffbc00949be2271d093f1d8e56bbe7c02bd1539",
+    "sampling_hz": 160.0,
+    "channels": 64,
+    "samples": 19680,
+    "source": "https://physionet.org/files/eegmmidb/1.0.0/S002/S002R04.edf"
+  },
+  "S002R08": {
+    "subject": 2,
+    "run": 8,
+    "file": "data/MNE-eegbci-data/files/eegmmidb/1.0.0/S002/S002R08.edf",
+    "sha256": "02d64941f6bcd1635bc7dd187a9553331b73933e9771f4e7c59249dfc5632c5a",
+    "sampling_hz": 160.0,
+    "channels": 64,
+    "samples": 19680,
+    "source": "https://physionet.org/files/eegmmidb/1.0.0/S002/S002R08.edf"
+  },
+  "S002R12": {
+    "subject": 2,
+    "run": 12,
+    "file": "data/MNE-eegbci-data/files/eegmmidb/1.0.0/S002/S002R12.edf",
+    "sha256": "a3d166b23375942a5ccf352924f7766f0ca9cfd1bac7951175e710d978f5239f",
+    "sampling_hz": 160.0,
+    "channels": 64,
+    "samples": 19680,
+    "source": "https://physionet.org/files/eegmmidb/1.0.0/S002/S002R12.edf"
+  },
+  "S003R04": {
+    "subject": 3,
+    "run": 4,
+    "file": "data/MNE-eegbci-data/files/eegmmidb/1.0.0/S003/S003R04.edf",
+    "sha256": "7d0732eea963488a53153835524e55c2b68220b0a0c7c5be99e535a9f5367e7f",
+    "sampling_hz": 160.0,
+    "channels": 64,
+    "samples": 20000,
+    "source": "https://physionet.org/files/eegmmidb/1.0.0/S003/S003R04.edf"
+  },
+  "S003R08": {
+    "subject": 3,
+    "run": 8,
+    "file": "data/MNE-eegbci-data/files/eegmmidb/1.0.0/S003/S003R08.edf",
+    "sha256": "0f50978bb972e693b8c758a9223a2d9fa35c7f117226391090bcc32a83ce765d",
+    "sampling_hz": 160.0,
+    "channels": 64,
+    "samples": 20000,
+    "source": "https://physionet.org/files/eegmmidb/1.0.0/S003/S003R08.edf"
+  },
+  "S003R12": {
+    "subject": 3,
+    "run": 12,
+    "file": "data/MNE-eegbci-data/files/eegmmidb/1.0.0/S003/S003R12.edf",
+    "sha256": "bbf7137bfa7905724741e95359fa090439d4422c07bdba16c792acb09ebd6421",
+    "sampling_hz": 160.0,
+    "channels": 64,
+    "samples": 20000,
+    "source": "https://physionet.org/files/eegmmidb/1.0.0/S003/S003R12.edf"
+  }
+}
